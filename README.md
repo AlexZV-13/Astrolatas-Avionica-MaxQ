@@ -1,4 +1,4 @@
-# Aviónica de Carga Útil - Equipo Astrolatas (Categoría Max Q)
+# Aviónica de Carga Útil - Equipo Astrolatas
 
 Este repositorio contiene el código fuente de la computadora de vuelo desarrollada por el equipo **Astrolatas** para la categoría "Max Q" (Cohete de Combustible Sólido). 
 
